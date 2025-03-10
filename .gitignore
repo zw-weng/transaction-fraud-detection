@@ -1,0 +1,7 @@
+env/
+.ipynb_checkpoints/
+fast-api/__pycache__/
+.streamlit/
+archive/
+.vscode/
+.devcontainer/
